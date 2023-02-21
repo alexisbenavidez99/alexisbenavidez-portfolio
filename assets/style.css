@@ -1,0 +1,18 @@
+* {
+    margin: 5px;
+}
+body {
+    font-family: "Raleway", sans-serif, serif;
+}
+
+.name-icon {
+    font-family: "Gloock", sans-serif, serif;
+}
+
+.nav-link {
+    color: gray;
+}
+
+.nav-link:hover {
+    color: black;
+}
